@@ -4,7 +4,3 @@
 - ⚡ **Pythonista & Data Science Engineer**
 
 - 📫 How to reach me **hunkargencyildiz@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
