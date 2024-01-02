@@ -6,5 +6,4 @@
 - 📫 How to reach me **hunkargencyildiz@gmail.com**
 
 - 🌱 Currently inspiration board
-
-  <img alt="Fundamentals of Data Engineering: Plan and Build Robust Data Systems" src="https://m.media-amazon.com/images/I/81+oMD7Lm7L._SY425_.jpg" style="max-width: 50px; max-height: 80px;">
+  - <img alt="Fundamentals of Data Engineering: Plan and Build Robust Data Systems" src="https://m.media-amazon.com/images/I/81+oMD7Lm7L._SY425_.jpg" style="max-width: 20px; max-height: 30px;">
