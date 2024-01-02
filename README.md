@@ -1,4 +1,4 @@
-![image](https://github.com/hunkargenc/hunkargenc/assets/67922360/bbd05913-9145-4fa8-9bcf-b9cb6dd575db)<h1 align="center">pip install Hünkar</h1>
+<h1 align="center">pip install Hünkar</h1>
 <h3 align="center">Hi 👋, I am Hünkar.</h3>
 
 - ⚡ **Pythonista & Data Science Engineer**
