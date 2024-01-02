@@ -5,5 +5,9 @@
 
 - 📫 How to reach me **hunkargencyildiz@gmail.com**
 
-- 🌱 Currently inspiration board
-  - <img alt="Fundamentals of Data Engineering: Plan and Build Robust Data Systems" src="https://m.media-amazon.com/images/I/81+oMD7Lm7L._SY425_.jpg" style="width: 80px; height: 100px;">
+- 🌱 Inspiration board
+  - <img alt="Fundamentals of Data Engineering: Plan and Build Robust Data Systems" src="https://m.media-amazon.com/images/I/81+oMD7Lm7L._SY425_.jpg" width="360" height="450">
+  - <img alt="Time Series Forecasting in Python" src="https://images.manning.com/360/480/resize/book/7/482d2a6-3bd0-4905-a379-9123863bcd0b/Peixeiro-HI.png" width="360" height="450">
+  - <img alt="Cohere LLM University" src="[https://docs.cohere.com/docs/llmu](https://docs.cohere.com/docs/llmu)https://docs.cohere.com/docs/llmu" width="360" height="450">
+
+
