@@ -6,4 +6,4 @@
 - 📫 How to reach me **hunkargencyildiz@gmail.com**
 
 - 🌱 Inspiration board
-   <p><img alt="[Fundamentals of Data Engineering: Plan and Build Robust Data Systems" src="https://m.media-amazon.com/images/I/81+oMD7Lm7L._SY425_.jpg" width="180" height="225">
+   <p><img alt="Coded Bias" src="https://m.media-amazon.com/images/M/MV5BNWRlNWViNDEtZTZlMS00YmY5LThjZjctZjdiNDRlMjZlMzY3XkEyXkFqcGdeQXVyODQyNjk3MTQ@._V1_.jpg" width="180" height="225">
