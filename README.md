@@ -6,4 +6,5 @@
 - 📫 How to reach me **hunkargencyildiz@gmail.com**
 
 - 🎙️ My Podcast Channel
-   <p><img alt="UcDeger" src="[https://m.media-amazon.com/images/M/MV5BNWRlNWViNDEtZTZlMS00YmY5LThjZjctZjdiNDRlMjZlMzY3XkEyXkFqcGdeQXVyODQyNjk3MTQ@._V1_.jpg](https://open.spotify.com/show/0KbqRgTaSWiTl0Uzh7MTys?si=af227118f08c40b8)https://open.spotify.com/show/0KbqRgTaSWiTl0Uzh7MTys?si=af227118f08c40b8" width="180" height="225">
+   <p><a href="https://open.spotify.com/show/0KbqRgTaSWiTl0Uzh7MTys?si=91c0c5040b9549a2"><img src="https://s3-us-west-2.amazonaws.com/anchor-generated-image-bank/staging/podcast_uploaded_nologo400/40553739/40553739-1708172151616-186e288190471.jpg" alt="UcDegerPodcast" style="width:100px;height:100px;"></a></p>
+     
