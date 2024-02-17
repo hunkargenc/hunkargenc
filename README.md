@@ -5,5 +5,5 @@
 
 - 📫 How to reach me **hunkargencyildiz@gmail.com**
 
-- 🌱 Inspiration board
-   <p><img alt="Coded Bias" src="https://m.media-amazon.com/images/M/MV5BNWRlNWViNDEtZTZlMS00YmY5LThjZjctZjdiNDRlMjZlMzY3XkEyXkFqcGdeQXVyODQyNjk3MTQ@._V1_.jpg" width="180" height="225">
+- 🎙️ My Podcast Channel
+   <p><img alt="UcDeger" src="[https://m.media-amazon.com/images/M/MV5BNWRlNWViNDEtZTZlMS00YmY5LThjZjctZjdiNDRlMjZlMzY3XkEyXkFqcGdeQXVyODQyNjk3MTQ@._V1_.jpg](https://open.spotify.com/show/0KbqRgTaSWiTl0Uzh7MTys?si=af227118f08c40b8)https://open.spotify.com/show/0KbqRgTaSWiTl0Uzh7MTys?si=af227118f08c40b8" width="180" height="225">
